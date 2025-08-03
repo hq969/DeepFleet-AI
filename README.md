@@ -48,6 +48,7 @@ DeepFleet-AI/
 │   └── src/
 │       └── components/
 │       └── pages/
+│           └── Dashboard.jsx
 │
 ├── docker/
 │   └── Dockerfile
