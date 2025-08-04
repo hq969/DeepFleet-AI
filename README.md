@@ -165,7 +165,7 @@ You can expand this with more real-world logs.
 
 ## 👨‍💻 Contributors
 
-* **Harsh Sonkar** — [LinkedIn](www.linkedin.com/in/harsh-sonkar-232573250)
+* **Harsh Sonkar** —  [LinkedIn](https://www.linkedin.com/in/harsh-sonkar-232573250)
 
 ---
 
